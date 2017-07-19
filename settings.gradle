@@ -1,1 +1,1 @@
-include ':useDagger'
+include ':useDagger', ':useKodein'
